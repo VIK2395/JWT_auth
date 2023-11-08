@@ -1,4 +1,6 @@
-JWT vs sessions:\
+__OpenID vs OAuth__
+
+__JWT vs sessions:__\
 https://www.youtube.com/watch?v=7Q17ubqLfaM \
 https://stackoverflow.com/questions/68902836/what-is-the-difference-between-client-side-based-sessions-and-server-side-sessio
 
