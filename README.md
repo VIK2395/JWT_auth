@@ -23,7 +23,7 @@ Refresh Token Rotation => when sending refresh token, get new pair of __refresh_
 There are different approaches/flows how to deal with refresh tokens:
 
 - Different secrets can be used for __refresh__ and access tokens like here https://www.geeksforgeeks.org/jwt-authentication-with-refresh-tokens/
-- No saving refresh tokens in db at all like here https://www.geeksforgeeks.org/jwt-authentication-with-refresh-tokens/
+- No saving refresh tokens in db at all like here https://www.geeksforgeeks.org/jwt-authentication-with-refresh-tokens/ (in this example, only access token are reissued)
 - Store only last valid refresh token in db and remove it when refreshing(replacing with new one) like here https://www.youtube.com/watch?v=vQldMjSJ6-w
 - Keep track of all related refresh tokens for Reuse Detection like here https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
   
