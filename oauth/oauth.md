@@ -18,5 +18,6 @@ Targeted toward consumers, OIDC allows individuals to use single sign-on (SSO) t
 such as an email provider or social network, to authenticate their identities.
 
 3. SSO
+__https://www.youtube.com/watch?v=O1cRJWYF-g4__
 
 ![image](https://github.com/VIK2395/JWT_auth/assets/50545334/91bb6caf-e6f3-43c3-9729-482adfc94cf1)
