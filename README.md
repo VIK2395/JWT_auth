@@ -1,4 +1,4 @@
-__OpenID vs OAuth__
+__OpenID vs OAuth vs SSO__
 
 __JWT vs sessions:__\
 https://www.youtube.com/watch?v=7Q17ubqLfaM \
