@@ -1,6 +1,14 @@
-__JWT vs sessions:__\
+__Session vs JWT authentication:__\
 https://www.youtube.com/watch?v=7Q17ubqLfaM \
+https://www.geeksforgeeks.org/session-vs-token-based-authentication/amp/ \
+https://medium.com/@tiff.sage/client-side-session-vs-server-side-session-d506f5408e8c \
 https://stackoverflow.com/questions/68902836/what-is-the-difference-between-client-side-based-sessions-and-server-side-sessio
+
+Session authentication:
+- Client-side sessions;
+- Server-side sessions;
+
+JWT authentication:
 
 JWT is encoded, but not encrypted. This means everyone can see what is inside.\
 It is digitally signed using secret(HMAC SHA256 algorithm) or a public/private key pair using RSA or ECDSA.
