@@ -5,8 +5,8 @@ https://medium.com/@tiff.sage/client-side-session-vs-server-side-session-d506f54
 https://stackoverflow.com/questions/68902836/what-is-the-difference-between-client-side-based-sessions-and-server-side-sessio
 
 Session authentication:
-- Client-side sessions;
-- Server-side sessions;
+- Client-side sessions (user info stored on client; signs the cookies cryptographically for security => you can see data, but not modify, like with jwt);
+- Server-side sessions (user info stored on server; bad for multiple servers);
 
 JWT authentication:
 
