@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=6wCwjIhGylY
 How signarure happens in terms of public/private keys\
 https://www.ibm.com/docs/en/cics-ts/5.4?topic=protection-public-key-encryption
 
+- Information encrypted using the public key can be decrypted only with the private key.
+- Information encrypted using the private key can be decrypted only with the public key.
+
 https://www.youtube.com/watch?v=heacxYUnFHA
 ![image](https://github.com/VIK2395/JWT_auth/assets/50545334/d73c0e7e-1ff8-4f70-a7be-5da93cf880ac)
 
