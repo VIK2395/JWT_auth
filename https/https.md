@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=heacxYUnFHA
 https://www.ibm.com/docs/en/ibm-mq/9.3?topic=tls-digital-signatures-in-ssltls
 ![image](https://github.com/VIK2395/JWT_auth/assets/50545334/80efaaf7-5c9e-4930-b16b-005661d13a84)
 
+SHA(Secure Hash Algorithm)
+
 Sender:\
 hash = SHA/bcrypt func(data);\
 sign = encript(hash, sign's private key);\
