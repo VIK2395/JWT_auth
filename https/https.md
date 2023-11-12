@@ -20,12 +20,9 @@ TLS 1.3 uses Diffie-Hellman (or enhanced Elliptic Curve Diffie-Hellman) algorith
 https://www.youtube.com/watch?v=AlE5X1NlHgg \
 https://www.youtube.com/watch?v=kCkQRH5eweg
 
+https://www.ssl.com/article/ssl-tls-handshake-ensuring-secure-online-interactions/
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/dad3da24-e57c-4194-949b-a83c167e5228)
+
 3 TLS 1.3 Diffie-Hellman in details:
 
 https://www.youtube.com/watch?v=64geP_LAZ5U
-
-4 Overall flow:
-
-https://www.ssl.com/article/ssl-tls-handshake-ensuring-secure-online-interactions/
-
-![image](https://github.com/VIK2395/JWT_auth/assets/50545334/dad3da24-e57c-4194-949b-a83c167e5228)
