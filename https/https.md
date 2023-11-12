@@ -37,7 +37,7 @@ Consumer:\
 input => data + sign + (sign's public key);\
 hash1 = SHA/bcrypt func(data);\
 hash2 = decript(sign, sign's public key);\
-hash1 = hash2;
+hash1 == hash2;
 
 =================================================================================
 
