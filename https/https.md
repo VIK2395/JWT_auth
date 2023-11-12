@@ -7,7 +7,10 @@ See laptop: __Network and security fundamentals__ for more info.
 - Certificate chain;
 
 https://www.youtube.com/watch?v=r1nJT63BFQ0 \
-https://www.youtube.com/watch?v=6wCwjIhGylY
+https://www.youtube.com/watch?v=6wCwjIhGylY \
+https://www.youtube.com/watch?v=heacxYUnFHA
+
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/d73c0e7e-1ff8-4f70-a7be-5da93cf880ac)
 
 2 Handshake (proccess of exchnge "session key" between client and server):
 - Session key;\
