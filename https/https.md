@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=6wCwjIhGylY
 
 2 Handshake (proccess of exchnge "session key" between client and server):
 - Session key;\
-TLS 1.2 uses RSA algorithm; doesn't have Perfect forward secrecy; client generates "session key";\
+TLS 1.2 uses RSA(Rivest-Shamir-Adelman) algorithm; doesn't have Perfect forward secrecy; client generates "session key";\
 TLS 1.3 uses Diffie-Hellman (or enhanced Elliptic Curve Diffie-Hellman) algorithm; has Perfect forward secrecy; client generates: private x and public g, n, g^x%n, which are sent publicly;
 
 https://www.youtube.com/watch?v=AlE5X1NlHgg \
