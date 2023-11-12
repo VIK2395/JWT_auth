@@ -6,7 +6,7 @@ Data encription is symmetric;
 =================================================================================
 
 1 SSL/TLS (digital) certificates:
-- __Root certificates => pre-installed in OS; self-signed; contain public keys__;
+- __Root certificates => pre-installed in OS (and probably browser); self-signed; contain public keys__;
 - Intermediate certificates;
 - Self-signed certificate;
 - Certificate chain;
