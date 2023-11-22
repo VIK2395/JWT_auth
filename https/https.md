@@ -1,7 +1,7 @@
 See laptop: __Network and security fundamentals__ for more info.
 
-Session key exchange is asymmetric;\
-Data encription is symmetric;
+Session key exchange uses asymmetric encription;\
+Data encripted using symmetric encription;
 
 =================================================================================
 
