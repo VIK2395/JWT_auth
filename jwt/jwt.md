@@ -13,7 +13,7 @@ JWT authentication:
 JWT is encoded, but not encrypted. This means everyone can see what is inside.\
 It is digitally signed using __HMAC-SHA256 algorithm with secret__ or a public/private key pair using RSA or ECDSA.
 
-![image](https://github.com/VIK2395/JWT_auth/assets/50545334/8326329e-6418-4faa-b10a-7f4b7803531a)
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/aff4375f-038d-43e6-98f1-ca9900cd5bf7)
 
 Source: https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hmacsha256?view=net-8.0 \
 ![image](https://github.com/VIK2395/JWT_auth/assets/50545334/d0dae7b2-e729-4ea3-b5da-c44fc1a8428d)
