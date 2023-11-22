@@ -11,7 +11,9 @@ Session authentication:
 JWT authentication:
 
 JWT is encoded, but not encrypted. This means everyone can see what is inside.\
-It is digitally signed using secret(HMAC SHA256 algorithm) or a public/private key pair using RSA or ECDSA.
+It is digitally signed using __HMAC-SHA256 algorithm with secret__ or a public/private key pair using RSA or ECDSA.
+
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/8326329e-6418-4faa-b10a-7f4b7803531a)
 
 https://medium.com/@chauhanshubham19765/jwt-refresh-token-61823e888bc7
 
