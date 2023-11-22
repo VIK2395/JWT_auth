@@ -15,6 +15,9 @@ It is digitally signed using __HMAC-SHA256 algorithm with secret__ or a public/p
 
 ![image](https://github.com/VIK2395/JWT_auth/assets/50545334/8326329e-6418-4faa-b10a-7f4b7803531a)
 
+Source: https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.hmacsha256?view=net-8.0 \
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/d0dae7b2-e729-4ea3-b5da-c44fc1a8428d)
+
 https://medium.com/@chauhanshubham19765/jwt-refresh-token-61823e888bc7
 
 Authentication flow with access token only.
