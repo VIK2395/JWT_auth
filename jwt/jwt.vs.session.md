@@ -1,3 +1,10 @@
+__Stateful vs Stateless Architecture:__
+
+https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/ \
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/d55f7e58-9704-4752-ba5e-93cacef888af)
+
+![image](https://github.com/VIK2395/JWT_auth/assets/50545334/fa6390f6-afd2-4bce-8e3e-65fd2f7fb73d)
+
 __Session vs JWT authentication:__\
 https://www.youtube.com/watch?v=7Q17ubqLfaM \
 https://www.geeksforgeeks.org/session-vs-token-based-authentication/amp/ \
