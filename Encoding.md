@@ -19,6 +19,9 @@ https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-
 HTML URL Encoding \
 https://www.w3schools.com/tags/ref_urlencode.ASP
 
+JS encodeURI vs encodeURIComponent \
+https://javascript.info/url#encoding-strings
+
 Base64 encoding \
 https://en.wikipedia.org/wiki/Base64
 
