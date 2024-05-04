@@ -1,1 +1,1 @@
-All about authentication.
+About authentication and security.
