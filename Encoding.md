@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=DntKZ9xJ1sM
 About the problem of not knowing which decoding to use \
 https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-should-i-bother-with-it
 
+Fix csv incorrect encoding \
+https://stackoverflow.com/questions/6002256/is-it-possible-to-force-excel-recognize-utf-8-csv-files-automatically
+
 What is characher encoding \
 https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-should-i-bother-with-it
 
