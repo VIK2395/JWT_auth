@@ -1,6 +1,6 @@
 ASCII - a character set \
-Unicode - a character set \
-UTF-8, UTF-16, UTF-32 - an encoding scheme
+Unicode - a character set. __It translates characters to numbers__ \
+UTF-8 (Unicode Transformation Format), UTF-16 - an encoding standard. __It translates numbers into binary__
 
 https://www.youtube.com/watch?v=DntKZ9xJ1sM
 
