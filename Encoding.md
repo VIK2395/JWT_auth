@@ -1,6 +1,6 @@
 ASCII - a character set \
 Unicode - a character set. __It translates characters to numbers__ \
-UTF-8 (Unicode Transformation Format), UTF-16 - an encoding standard. __It translates numbers into binary__
+UTF-8 (Unicode Transformation Format 8 bits), UTF-16 - an encoding scheme/standard. __It translates numbers into binary__
 
 https://www.youtube.com/watch?v=DntKZ9xJ1sM
 
@@ -18,6 +18,9 @@ https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-
 
 HTML URL Encoding \
 https://www.w3schools.com/tags/ref_urlencode.ASP
+
+
+https://www.w3schools.com/charsets/ref_html_utf8.asp
 
 JS encodeURI vs encodeURIComponent \
 https://javascript.info/url#encoding-strings
