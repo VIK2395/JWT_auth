@@ -6,5 +6,8 @@ https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-
 HTML URL Encoding \
 https://www.w3schools.com/tags/ref_urlencode.ASP
 
+Base64 encoding \
+https://en.wikipedia.org/wiki/Base64
+
 Hexadecimal \
 https://www.techtarget.com/whatis/definition/hexadecimal
