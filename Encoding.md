@@ -19,7 +19,7 @@ https://stackoverflow.com/questions/10611455/what-is-character-encoding-and-why-
 HTML URL Encoding \
 https://www.w3schools.com/tags/ref_urlencode.ASP
 
-
+HTML Encoding tag
 https://www.w3schools.com/charsets/ref_html_utf8.asp
 
 JS encodeURI vs encodeURIComponent \
