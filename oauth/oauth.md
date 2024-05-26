@@ -18,7 +18,7 @@ __https://openid.net/specs/openid-connect-core-1_0.html#IDToken__ \
 https://www.pingidentity.com/en/resources/identity-fundamentals/authentication-authorization-standards/openid-connect.html#:~:text=OpenID%20Connect%20(OIDC)%20is%20an,network%2C%20to%20authenticate%20their%20identities \
 OpenID Connect (OIDC) is an open authentication protocol that works on top of the OAuth 2.0 framework.\
 Targeted toward consumers, OIDC allows individuals to use single sign-on (SSO) to access relying party sites using OpenID Providers (OPs),\
-such as an email provider or social network, to authenticate their identities.
+such as an email provider or social network, __to authenticate their identities__.
 
 4. SSO\
 __https://www.youtube.com/watch?v=O1cRJWYF-g4__
