@@ -81,3 +81,9 @@ Given the URL:
 ```
 scheme://hostname[:port]/path?query#fragment
 ```
+
+# Origin
+
+`scheme + hostname + port`
+
+https://developer.mozilla.org/en-US/docs/Glossary/Origin
