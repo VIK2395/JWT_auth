@@ -21,11 +21,13 @@ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Wh
 #### Protocol
 
 The **protocol** defines the method by which the resource is accessed, usually specifying a network protocol. Common examples are:
-   - `http://` – Hypertext Transfer Protocol (unsecure)
-   - `https://` – Hypertext Transfer Protocol Secure (encrypted communication)
-   - `ftp://` – File Transfer Protocol
+   - `http:` – Hypertext Transfer Protocol (unsecure)
+   - `https:` – Hypertext Transfer Protocol Secure (encrypted communication)
+   - `ftp:` – File Transfer Protocol
 
-**The protocol includes `://`**
+https://developer.mozilla.org/en-US/docs/Web/API/URL/protocol
+
+**The protocol includes `:`**
 
 ---
 
