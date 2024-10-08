@@ -2,8 +2,6 @@
 
 https://developer.mozilla.org/en-US/docs/Web/API/URL/hostname
 
-![image](https://github.com/user-attachments/assets/7ce6dffd-d37d-4de7-90c0-057d7f69e418)
-
 ![image](https://github.com/user-attachments/assets/05757a98-f246-4635-a300-d3a81a192f2c)
 
 ### 1. **Scheme (or Protocol)**:
