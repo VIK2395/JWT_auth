@@ -68,7 +68,7 @@ Given the URL:
 2. **Hostname**: `blog.example.com`
    - Root domain: `.` (implicit)
    - TLD: `com`
-   - Second level domain: `example`
+   - Second level domain or Main domain: `example`
    - **Subdomain** or Third level domain: `blog`
    - **Domain**: `example.com`
    - Fully-qualified domain name (FQDN) or Full|complete domain or **Hostname**: `blog.example.com`
