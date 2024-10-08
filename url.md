@@ -66,7 +66,7 @@ Given the URL:
 `https://blog.example.com:8080/articles/page.html?q=search#top`
 
 0. **Scheme**: `https`
-1. **Protocol**: `https://`
+1. **Protocol**: `https:`
 2. **Hostname**: `blog.example.com`
    - Root domain: `.` (implicit)
    - TLD: `com`
