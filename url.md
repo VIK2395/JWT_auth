@@ -71,7 +71,7 @@ Given the URL:
    - Second level domain: `example`
    - **Subdomain** or Third level domain: `blog`
    - **Domain**: `example.com`
-   - Fully-qualified domain name or Full domain or **Hostname**: `blog.example.com`
+   - Fully-qualified domain name (FQDN) or Full|complete domain or **Hostname**: `blog.example.com`
 4. **Port**: `8080`
 5. **Path**: `/articles/page.html`
 6. **Query string**: `q=search`
